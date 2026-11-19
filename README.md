@@ -1,8 +1,8 @@
 # José Luis Cases
 
-**I lead [Arkatai](https://arkatai.com/) · Valencia, Spain**
+**CPTO at [Rankia](https://www.rankia.com/) · I lead [Arkatai](https://arkatai.com/) · Valencia, Spain**
 
-At Arkatai, we run business operations for companies using our own AI agents and software. I also build tools for working with coding agents across repositories, terminals, and teams. I’m especially interested in what happens after an agent says “done”: what changed, what was tested, and where a person still needs to make a call.
+I lead product and technology at Rankia. At Arkatai, we run business operations for companies using our own AI agents and software. I also build tools for working with coding agents across repositories, terminals, and teams. I’m especially interested in what happens after an agent says “done”: what changed, what was tested, and where a person still needs to make a call.
 
 [PaellaDoc](https://paelladoc.com/) · [LLM Engineer Club](https://llmengineerclub.com/) · [Trader Profesional](https://traderprofesional.com/en/about/) · [En español](#en-español)
 
@@ -27,6 +27,6 @@ At Arkatai, we run business operations for companies using our own AI agents and
 
 ## En español
 
-Dirijo [Arkatai](https://arkatai.com/), donde operamos procesos de negocio con agentes de IA y software propio. Me interesa cómo se construye producto cuando parte del trabajo lo hacen agentes: cómo repartirlo, cómo comprobar el resultado y qué decisiones siguen necesitando criterio humano.
+Soy CPTO en [Rankia](https://www.rankia.com/) y dirijo [Arkatai](https://arkatai.com/), donde operamos procesos de negocio con agentes de IA y software propio. Me interesa cómo se construye producto cuando parte del trabajo lo hacen agentes: cómo repartirlo, cómo comprobar el resultado y qué decisiones siguen necesitando criterio humano.
 
 Si quieres **probar herramientas**, empieza por [PaellaDoc](https://paelladoc.com/) o [Agents City](https://github.com/jlcases/agents-city). Si quieres **aprender a construirlas**, el [programa de LLM Engineering](https://github.com/jlcases/llm-engineering-program) tiene teoría y laboratorios en español e inglés.
