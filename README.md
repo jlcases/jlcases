@@ -1,6 +1,6 @@
 # José Luis Cases
 
-**CPTO at Rankia · Industrial engineer · Valencia, Spain**
+**CPTO at Rankia · Valencia, Spain**
 
 I lead product and technology at [Rankia](https://www.rankia.com/). I build tools for working with coding agents across repositories, terminals, and teams. I’m especially interested in what happens after an agent says “done”: what changed, what was tested, and where a person still needs to make a call.
 
@@ -27,6 +27,6 @@ I lead product and technology at [Rankia](https://www.rankia.com/). I build tool
 
 ## En español
 
-Soy José Luis Cases, ingeniero industrial y CPTO en Rankia. Me interesa cómo se construye producto cuando parte del trabajo lo hacen agentes: cómo repartirlo, cómo comprobar el resultado y qué decisiones siguen necesitando criterio humano.
+Soy José Luis Cases. Soy CPTO en Rankia. Me interesa cómo se construye producto cuando parte del trabajo lo hacen agentes: cómo repartirlo, cómo comprobar el resultado y qué decisiones siguen necesitando criterio humano.
 
 Si quieres **probar herramientas**, empieza por [PaellaDoc](https://paelladoc.com/) o [Agents City](https://github.com/jlcases/agents-city). Si quieres **aprender a construirlas**, el [programa de LLM Engineering](https://github.com/jlcases/llm-engineering-program) tiene teoría y laboratorios en español e inglés.
